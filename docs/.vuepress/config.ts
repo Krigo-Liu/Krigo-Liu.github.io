@@ -20,7 +20,7 @@ export default defineUserConfig({
   //网站路径，默认为 /，如果非主域名，需改为
   base: "/",
 
-  theme,
+  //theme,
   //是否开启页面预拉取，如果服务器宽带足够，可改为 true，会提升其他页面加载速度
   shouldPrefetch: false,
 
