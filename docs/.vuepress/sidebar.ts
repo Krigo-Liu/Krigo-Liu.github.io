@@ -2,11 +2,11 @@ import { sidebar } from "vuepress-theme-hope";
 
 // 精选图标：https://vuepress-theme-hope.github.io/v2/zh/guide/interface/icon.html#iconfont-%E7%B2%BE%E9%80%89%E5%9B%BE%E6%A0%87
 export default sidebar([
-  "/DailyRoutine",
-  "/Fitness",
-  "/Read",
+  //"/DailyRoutine",
+  //"/Fitness",
+  //"/Read",
   {
-    text: "🛖 数学",
+    text: "🛖 Math",
     icon: "",
     prefix: "/math/",
     link: "",
@@ -14,7 +14,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🚀 代码",
+    text: "🚀 CS",
     icon: "",
     prefix: "/code/",
     link: "",
@@ -22,7 +22,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🧰 软件应用",
+    text: "🧰 APP",
     icon: "",
     prefix: "/apps/",
     link: "",
@@ -30,7 +30,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🌐 页面开发",
+    text: "🌐 Web",
     icon: "",
     prefix: "/web/",
     link: "",
@@ -62,7 +62,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "博客文章",
+    text: "Article",
     icon: "blog",
     prefix: "/_posts/",
     link: "/blog",
