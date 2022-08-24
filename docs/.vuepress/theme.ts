@@ -103,7 +103,7 @@ export default hopeTheme({
       //pageview: true,
       //Giscus 备用配置
       provider: "Giscus",
-      repo: "Krigo-Liu/Krigo-Liu.github.i",
+      repo: "Krigo-Liu/Krigo-Liu.github.io",
       repoId: "R_kgDOH30IYg",
       category: "Announcements",
       categoryId: "DIC_kwDOH30IYs4CRBV8",
