@@ -6,10 +6,10 @@ import sidebar from "./sidebar";
 export default hopeTheme({
   //主题选项
   //https://vuepress-theme-hope.github.io/v2/zh/config/theme/layout.html
-  hostname: "https://newzone.top",
+  hostname: "https://krigo-liu.github.io/blog.html",
 
   author: {
-    name: "清顺",
+    name: "Krigo",
     url: "https://newzone.top",
   },
 
@@ -70,7 +70,7 @@ export default hopeTheme({
   //https://vuepress-theme-hope.github.io/v2/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "Category", "Tag", "ReadingTime", "PageView"],
-    name: "清顺",
+    name: "Krigo",
     avatar: "/avatar_self.webp",
     description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
     intro: "/intro.html",
