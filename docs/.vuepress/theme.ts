@@ -72,19 +72,19 @@ export default hopeTheme({
     articleInfo: ["Date", "Category", "Tag", "ReadingTime", "PageView"],
     name: "Krigo",
     avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    description: "星河卫士，罗马的重建者，死于偏微分应数人",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      GitHub: "https://github.com/rockbenben",
-      Zhihu: "https://www.zhihu.com/people/qingwhat",
-      Weibo: "https://weibo.com/u/1992817087",
-      Wechat: "http://tc.seoipo.com/wechat.svg",
-      少数派: [
-        "https://sspai.com/u/zqj05i4v/posts",
-        path.resolve(__dirname, "icons/sspai.svg"),
-      ],
-      RSS: "https://newzone.top/rss.xml",
+      // GitHub: "https://github.com/rockbenben",
+      // Zhihu: "https://www.zhihu.com/people/qingwhat",
+      // Weibo: "https://weibo.com/u/1992817087",
+      // Wechat: "http://tc.seoipo.com/wechat.svg",
+      // 少数派: [
+      //   "https://sspai.com/u/zqj05i4v/posts",
+      //   path.resolve(__dirname, "icons/sspai.svg"),
+      // ],
+      // RSS: "https://newzone.top/rss.xml",
     },
   },
 
@@ -100,7 +100,7 @@ export default hopeTheme({
       //部署 Waline：https://waline.js.org/guide/get-started.html
       provider: "Waline",
       serverURL: "https://waline-seven-sepia.vercel.app",
-      pageview: true,
+      pageview: false,
       //Giscus 备用配置
       //provider: "Giscus",
       //repo: "rockbenben/LearnData",
