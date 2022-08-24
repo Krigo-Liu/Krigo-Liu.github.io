@@ -45,7 +45,7 @@ jobs:
           folder: docs/.vuepress/dist
 
       #将页面推送到服务器，可删除
-      - name: 📂 Sync files
+    #  - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
           local-dir: docs/.vuepress/dist/
@@ -55,7 +55,7 @@ jobs:
           port: ${{ secrets.ftp_port }} # 建议更改默认的 21 端口
 
       #同步服务器失败后，自动重试一次；同步成功，则自动忽略此步骤
-      - name: 📂 Sync files Retry
+      # - name: 📂 Sync files Retry
         if: failure()
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:

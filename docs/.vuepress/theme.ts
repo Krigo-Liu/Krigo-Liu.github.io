@@ -10,7 +10,7 @@ export default hopeTheme({
 
   author: {
     name: "Krigo",
-    url: "https://newzone.top",
+    url: "https://github.com/Krigo-Liu/Krigo-Liu.github.io",
   },
 
   iconAssets: "iconfont",
