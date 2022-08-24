@@ -98,15 +98,15 @@ export default hopeTheme({
     //评论配置
     comment: {
       //部署 Waline：https://waline.js.org/guide/get-started.html
-      provider: "Waline",
-      serverURL: "https://waline-seven-sepia.vercel.app",
-      pageview: false,
+      //provider: "Waline",
+      //serverURL: "https://waline-seven-sepia.vercel.app",
+      //pageview: true,
       //Giscus 备用配置
-      //provider: "Giscus",
-      //repo: "rockbenben/LearnData",
-      //repoId: "R_kgDOHdfk6Q",
-      //category: "Comments",
-      //categoryId: "DIC_kwDOHdfk6c4CQYNn",
+      provider: "Giscus",
+      repo: "Krigo-Liu/Krigo-Liu.github.i",
+      repoId: "R_kgDOH30IYg",
+      category: "Announcements",
+      categoryId: "DIC_kwDOH30IYs4CRBV8",
     },
 
     mdEnhance: {
