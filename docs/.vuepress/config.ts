@@ -13,9 +13,9 @@ export default defineUserConfig({
   //网站语言，默认为中文
   lang: "zh-CN",
   //网站标题
-  title: "Krigo‘s Math & CS life’",
+  title: "Krigo‘s Math & CS Life",
   //网站描述
-  description: "Note for Math & class. Record and Manage.",
+  description: "Note for Math & CS. Record and Manage.",
 
   //网站路径，默认为 /，如果非主域名，需改为
   base: "/",
