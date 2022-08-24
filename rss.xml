@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://newzone.top/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Krigo‘s Math &amp; CS life’</title>
+    <title>Krigo‘s Math &amp; CS Life</title>
     <link>https://newzone.top/</link>
-    <description>Note for Math &amp; class. Record and Manage.</description>
+    <description>Note for Math &amp; CS. Record and Manage.</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Aug 2022 06:43:51 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Aug 2022 06:43:51 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Aug 2022 07:01:54 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Aug 2022 07:01:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
   </channel>
