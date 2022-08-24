@@ -14,7 +14,7 @@ export default hopeTheme({
   },
 
   iconAssets: "iconfont",
-  logo: "/temp.svg",
+  logo: "/temp.png",
 
   //是否全局启用路径导航
   breadcrumb: false,
